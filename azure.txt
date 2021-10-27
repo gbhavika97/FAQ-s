@@ -1,0 +1,2 @@
+1.How to delete a file share permanently when the soft delete is enabled?
+2.How to delete a file share in a soft delete state before its expiry time?
